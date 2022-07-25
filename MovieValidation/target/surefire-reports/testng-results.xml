@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-24T14:40:56 IST" name="Surefire suite" finished-at="2022-07-24T14:42:14 IST" duration-ms="78261">
+    <groups>
+    </groups>
+    <test started-at="2022-07-24T14:40:56 IST" name="Surefire test" finished-at="2022-07-24T14:42:14 IST" duration-ms="78261">
+      <class name="seleniumTest.Test">
+        <test-method signature="case1()[pri:0, instance:seleniumTest.Test@2133814f]" started-at="2022-07-24T14:40:56 IST" name="case1" finished-at="2022-07-24T14:42:14 IST" duration-ms="77971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case1 -->
+      </class> <!-- seleniumTest.Test -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
